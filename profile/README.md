@@ -4,6 +4,8 @@ Ankara University Free Software Society is **an unofficial student community** t
 
 ## Our Projects
 
+- [debigtech](https://github.com/ankaraunifreesoftware/debigtech): Fork of [degoogle](https://github.com/tycrek/degoogle) project but up-to-date and supporting multiple languages!
+
 - Ankara University Announcement Bot(s): This project consists three parts.
   - [Ankara University Announcement Backend](https://github.com/ankaraunifreesoftware/au-announcement-backend)
   - [Ankara University Announcement Discord Bot](https://github.com/ankaraunifreesoftware/au-announcement-discord-bot)
